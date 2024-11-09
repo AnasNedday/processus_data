@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/377287037009484942/eeab7e7252e241ad9f9bc29575ad0bfc/artifacts
+end_time: 1731150702090
+entry_point_name: ''
+experiment_id: '377287037009484942'
+lifecycle_stage: active
+run_id: eeab7e7252e241ad9f9bc29575ad0bfc
+run_name: bustling-quail-222
+run_uuid: eeab7e7252e241ad9f9bc29575ad0bfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731150699869
+status: 3
+tags: []
+user_id: nedday

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/103590986508160411/aed1d314d68249aa974ef5f64cb38272/artifacts
+deleted_time: 1731072957561
+end_time: 1731072885864
+entry_point_name: ''
+experiment_id: '103590986508160411'
+lifecycle_stage: deleted
+run_id: aed1d314d68249aa974ef5f64cb38272
+run_name: abundant-wolf-909
+run_uuid: aed1d314d68249aa974ef5f64cb38272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731072883525
+status: 3
+tags: []
+user_id: nedday

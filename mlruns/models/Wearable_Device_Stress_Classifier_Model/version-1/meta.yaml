@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1731076599338
+current_stage: None
+description: null
+last_updated_timestamp: 1731076599338
+name: Wearable_Device_Stress_Classifier_Model
+run_id: 6fba490026764da29a0ce1ba6fef5409
+run_link: null
+source: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/377287037009484942/6fba490026764da29a0ce1ba6fef5409/artifacts/logistic_regression_model
+status: READY
+status_message: null
+storage_location: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/377287037009484942/6fba490026764da29a0ce1ba6fef5409/artifacts/logistic_regression_model
+user_id: null
+version: 1

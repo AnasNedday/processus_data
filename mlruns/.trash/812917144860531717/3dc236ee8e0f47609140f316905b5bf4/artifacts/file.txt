@@ -1,0 +1,1 @@
+Ceci est une phrase indiquant la fin de l'entraînement du modèle et l'enregistrement des artefacts.

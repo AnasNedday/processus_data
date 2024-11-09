@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/812917144860531717/ff6a0ec5ff3a4ec2b037c2f94de8b850/artifacts
+deleted_time: 1731070887708
+end_time: 1731062693236
+entry_point_name: ''
+experiment_id: '812917144860531717'
+lifecycle_stage: deleted
+run_id: ff6a0ec5ff3a4ec2b037c2f94de8b850
+run_name: legendary-perch-802
+run_uuid: ff6a0ec5ff3a4ec2b037c2f94de8b850
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731062690696
+status: 3
+tags: []
+user_id: nedday

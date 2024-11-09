@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/812917144860531717/d3814a7cf3bc4aeea46fc45f9423cf3a/artifacts
+deleted_time: 1731070887708
+end_time: 1731064190535
+entry_point_name: ''
+experiment_id: '812917144860531717'
+lifecycle_stage: deleted
+run_id: d3814a7cf3bc4aeea46fc45f9423cf3a
+run_name: burly-dog-764
+run_uuid: d3814a7cf3bc4aeea46fc45f9423cf3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731064067633
+status: 3
+tags: []
+user_id: nedday

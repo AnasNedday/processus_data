@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/812917144860531717/b05f20ba9c544b2eb9ac4aec06269f54/artifacts
+deleted_time: 1731070887708
+end_time: 1731063834036
+entry_point_name: ''
+experiment_id: '812917144860531717'
+lifecycle_stage: deleted
+run_id: b05f20ba9c544b2eb9ac4aec06269f54
+run_name: casual-seal-691
+run_uuid: b05f20ba9c544b2eb9ac4aec06269f54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731063831939
+status: 3
+tags: []
+user_id: nedday

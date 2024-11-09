@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/812917144860531717/1a388afed82d4b7a960183c69a2fa216/artifacts
+deleted_time: 1731070887708
+end_time: 1731060540393
+entry_point_name: ''
+experiment_id: '812917144860531717'
+lifecycle_stage: deleted
+run_id: 1a388afed82d4b7a960183c69a2fa216
+run_name: gregarious-midge-814
+run_uuid: 1a388afed82d4b7a960183c69a2fa216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731060537664
+status: 3
+tags: []
+user_id: nedday

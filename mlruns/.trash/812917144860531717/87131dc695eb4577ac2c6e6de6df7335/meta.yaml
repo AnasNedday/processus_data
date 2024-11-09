@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/812917144860531717/87131dc695eb4577ac2c6e6de6df7335/artifacts
+deleted_time: 1731070887708
+end_time: 1731064834506
+entry_point_name: ''
+experiment_id: '812917144860531717'
+lifecycle_stage: deleted
+run_id: 87131dc695eb4577ac2c6e6de6df7335
+run_name: unleashed-wasp-92
+run_uuid: 87131dc695eb4577ac2c6e6de6df7335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731064196474
+status: 3
+tags: []
+user_id: nedday

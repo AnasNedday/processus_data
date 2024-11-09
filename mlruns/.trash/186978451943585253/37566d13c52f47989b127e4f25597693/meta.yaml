@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/186978451943585253/37566d13c52f47989b127e4f25597693/artifacts
+deleted_time: 1731073560979
+end_time: 1731073532173
+entry_point_name: ''
+experiment_id: '186978451943585253'
+lifecycle_stage: deleted
+run_id: 37566d13c52f47989b127e4f25597693
+run_name: Wearable_Device_Stress_Classifier_v1
+run_uuid: 37566d13c52f47989b127e4f25597693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731073529913
+status: 3
+tags: []
+user_id: nedday

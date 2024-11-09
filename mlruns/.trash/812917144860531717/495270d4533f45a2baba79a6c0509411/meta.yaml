@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/812917144860531717/495270d4533f45a2baba79a6c0509411/artifacts
+deleted_time: 1731070887708
+end_time: 1731063597040
+entry_point_name: ''
+experiment_id: '812917144860531717'
+lifecycle_stage: deleted
+run_id: 495270d4533f45a2baba79a6c0509411
+run_name: abundant-shrew-797
+run_uuid: 495270d4533f45a2baba79a6c0509411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731063594962
+status: 3
+tags: []
+user_id: nedday

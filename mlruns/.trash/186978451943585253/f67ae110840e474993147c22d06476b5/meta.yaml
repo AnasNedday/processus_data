@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/186978451943585253/f67ae110840e474993147c22d06476b5/artifacts
+deleted_time: 1731073560979
+end_time: null
+entry_point_name: ''
+experiment_id: '186978451943585253'
+lifecycle_stage: deleted
+run_id: f67ae110840e474993147c22d06476b5
+run_name: bustling-shark-957
+run_uuid: f67ae110840e474993147c22d06476b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731073540135
+status: 1
+tags: []
+user_id: nedday

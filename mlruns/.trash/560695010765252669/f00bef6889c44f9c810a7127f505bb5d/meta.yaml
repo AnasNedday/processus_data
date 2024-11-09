@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/560695010765252669/f00bef6889c44f9c810a7127f505bb5d/artifacts
+deleted_time: 1731073563558
+end_time: 1731072964691
+entry_point_name: ''
+experiment_id: '560695010765252669'
+lifecycle_stage: deleted
+run_id: f00bef6889c44f9c810a7127f505bb5d
+run_name: zealous-foal-9
+run_uuid: f00bef6889c44f9c810a7127f505bb5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731072962625
+status: 3
+tags: []
+user_id: nedday

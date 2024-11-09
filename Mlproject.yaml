@@ -1,0 +1,9 @@
+name: tp1-PD
+
+entry_points:
+  main:
+    parameters:
+      max_iter: {type: int, default: 100}
+      C: {type: float, default: 1.0}
+      solver: {type: str, default: "lbfgs"}
+    command: "python main.py --max_iter {max_iter} --C {C} --solver {solver}"

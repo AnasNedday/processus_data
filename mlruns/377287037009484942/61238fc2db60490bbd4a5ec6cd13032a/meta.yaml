@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/377287037009484942/61238fc2db60490bbd4a5ec6cd13032a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '377287037009484942'
+lifecycle_stage: active
+run_id: 61238fc2db60490bbd4a5ec6cd13032a
+run_name: abundant-sloth-296
+run_uuid: 61238fc2db60490bbd4a5ec6cd13032a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731150705945
+status: 1
+tags: []
+user_id: nedday

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/812917144860531717/90e8dcc36d2a442faf29f2a9eb3f1d17/artifacts
+deleted_time: 1731070887708
+end_time: 1731060694863
+entry_point_name: ''
+experiment_id: '812917144860531717'
+lifecycle_stage: deleted
+run_id: 90e8dcc36d2a442faf29f2a9eb3f1d17
+run_name: colorful-doe-24
+run_uuid: 90e8dcc36d2a442faf29f2a9eb3f1d17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731060692856
+status: 3
+tags: []
+user_id: nedday

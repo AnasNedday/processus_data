@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/812917144860531717/accf4b4095c5494bbc381aaaf063060a/artifacts
+deleted_time: 1731070887708
+end_time: 1731064836644
+entry_point_name: ''
+experiment_id: '812917144860531717'
+lifecycle_stage: deleted
+run_id: accf4b4095c5494bbc381aaaf063060a
+run_name: sincere-flea-49
+run_uuid: accf4b4095c5494bbc381aaaf063060a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731064834511
+status: 3
+tags: []
+user_id: nedday

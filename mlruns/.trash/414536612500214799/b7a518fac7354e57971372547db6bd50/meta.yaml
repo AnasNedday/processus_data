@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/414536612500214799/b7a518fac7354e57971372547db6bd50/artifacts
+deleted_time: 1731072917265
+end_time: 1731070990252
+entry_point_name: ''
+experiment_id: '414536612500214799'
+lifecycle_stage: deleted
+run_id: b7a518fac7354e57971372547db6bd50
+run_name: zealous-grub-457
+run_uuid: b7a518fac7354e57971372547db6bd50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731070988221
+status: 3
+tags: []
+user_id: nedday

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/560695010765252669/cd5c3389601a464d886e312e4df7f823/artifacts
+deleted_time: 1731073563558
+end_time: 1731072982078
+entry_point_name: ''
+experiment_id: '560695010765252669'
+lifecycle_stage: deleted
+run_id: cd5c3389601a464d886e312e4df7f823
+run_name: dazzling-sheep-490
+run_uuid: cd5c3389601a464d886e312e4df7f823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731072980177
+status: 3
+tags: []
+user_id: nedday

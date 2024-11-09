@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/812917144860531717/0089937a19554c949d23b2c7b84c4438/artifacts
+deleted_time: 1731070887708
+end_time: 1731064061713
+entry_point_name: ''
+experiment_id: '812917144860531717'
+lifecycle_stage: deleted
+run_id: 0089937a19554c949d23b2c7b84c4438
+run_name: fearless-toad-505
+run_uuid: 0089937a19554c949d23b2c7b84c4438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731064059597
+status: 3
+tags: []
+user_id: nedday

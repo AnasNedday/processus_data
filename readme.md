@@ -188,3 +188,30 @@ scaler = StandardScaler()
 X_train_scaled = scaler.fit_transform(X_train)
 X_test_scaled = scaler.transform(X_test)
 ```
+
+### Conclusion : 
+#### Model Evaluation Summary
+1. Random Forest Metrics
+
+- Accuracy: 0.63
+- Classification Report:
+Performance is fairly balanced between classes, though overall precision and recall scores are moderate.
+- Macro and weighted averages are 0.63, indicating consistent but modest model performance across classes.
+2. Logistic Regression Metrics
+
+- Accuracy: 0.64
+- Classification Report:
+Slightly higher accuracy, with a high recall for class 0 (0.80) but lower recall for class 1 (0.47), showing a preference for predicting class 0.
+Macro average of 0.66 for precision, suggesting a better, though still moderate, performance in treating classes more evenly.
+#### Improving Model Performance with Hyperparameter Tuning
+1. Random Forest
+- Key Parameters:
+Number of trees (n_estimators): Increasing can reduce variance.
+- Tree depth (max_depth): Adjusting depth to balance bias and variance.
+- Number of features (max_features): Modifying the features per split may help generalization.
+- Sampling (bootstrap and max_samples): Using different sampling techniques can enhance model robustness.
+2. Logistic Regression
+- Key Parameters:
+- Regularization parameter (C): Testing smaller or larger values can help balance overfitting.
+- Penalty (penalty): Exploring l1 or l2 regularization types may improve coefficients.
+- Classification threshold: Adjusting the threshold can improve recall for underrepresented classes.

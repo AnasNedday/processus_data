@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/377287037009484942/2485221a29de4548837bed4851c5eb48/artifacts
+end_time: 1731073673685
+entry_point_name: ''
+experiment_id: '377287037009484942'
+lifecycle_stage: active
+run_id: 2485221a29de4548837bed4851c5eb48
+run_name: brawny-fawn-648
+run_uuid: 2485221a29de4548837bed4851c5eb48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731073671689
+status: 3
+tags: []
+user_id: nedday

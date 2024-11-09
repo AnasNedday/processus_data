@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/812917144860531717/dbda949679174b439ba931a48b988a05/artifacts
+deleted_time: 1731070887708
+end_time: 1731070250943
+entry_point_name: ''
+experiment_id: '812917144860531717'
+lifecycle_stage: deleted
+run_id: dbda949679174b439ba931a48b988a05
+run_name: receptive-snipe-399
+run_uuid: dbda949679174b439ba931a48b988a05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731070248905
+status: 3
+tags: []
+user_id: nedday

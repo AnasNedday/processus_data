@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/414536612500214799/afaca3fce5e945279ecd45ae7d57e561/artifacts
+deleted_time: 1731072450548
+end_time: null
+entry_point_name: ''
+experiment_id: '414536612500214799'
+lifecycle_stage: deleted
+run_id: afaca3fce5e945279ecd45ae7d57e561
+run_name: smiling-grub-175
+run_uuid: afaca3fce5e945279ecd45ae7d57e561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731070993989
+status: 1
+tags: []
+user_id: nedday

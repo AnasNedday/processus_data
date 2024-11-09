@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/812917144860531717/2f50d07e5d0d4d02972ca615017cb14a/artifacts
+deleted_time: 1731070887708
+end_time: null
+entry_point_name: ''
+experiment_id: '812917144860531717'
+lifecycle_stage: deleted
+run_id: 2f50d07e5d0d4d02972ca615017cb14a
+run_name: skillful-panda-902
+run_uuid: 2f50d07e5d0d4d02972ca615017cb14a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731070601343
+status: 1
+tags: []
+user_id: nedday
