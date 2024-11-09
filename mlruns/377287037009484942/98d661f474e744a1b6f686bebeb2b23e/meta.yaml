@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nedday/Documents/All%20Projects%20/Processus%20data/mlruns/377287037009484942/98d661f474e744a1b6f686bebeb2b23e/artifacts
+end_time: 1731167839204
+entry_point_name: ''
+experiment_id: '377287037009484942'
+lifecycle_stage: active
+run_id: 98d661f474e744a1b6f686bebeb2b23e
+run_name: languid-rat-45
+run_uuid: 98d661f474e744a1b6f686bebeb2b23e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731167836788
+status: 3
+tags: []
+user_id: nedday
